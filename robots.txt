@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ihimeaze.github.io/sitemap_index.ihimeaze
